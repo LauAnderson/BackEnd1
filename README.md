@@ -1,2 +1,5 @@
-# BackEnd1
-Resolución de desafíos brindados por Digital House para la materia de Back end 1. Aplicación de patrones: Temple method, cadena de responsabilidad, Proxy. Implementación de frameworks: JUnit5.
+Ejercicio Spotify
+Enunciado: Implementando la interfaz DownloadService y agregando un método para descargar una canción. Usar el patrón proxy para comprobar si es posible hacerlo.
+Lenguaje: Java 17.
+Implementación: Patron Proxy
+
